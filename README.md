@@ -1,3 +1,4 @@
+# working_on_pandas
 Pandas is a powerful and versatile open-source library built on top of Python. Its primary purpose is to make data manipulation, analysis, and exploration easier and more intuitive.
 Pandas provides fast, flexible, and expressive data structures designed for working with both “relational” (tabular) and “labeled” data.
 Main features:
